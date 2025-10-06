@@ -1,0 +1,74 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "question": "What is the statute of limitations for filing a personal injury claim?",
+      "answer": "The statute of limitations for personal injury claims varies by state, but generally ranges from 2 to 3 years from the date of injury. In most states, you have 2 years to file a lawsuit for personal injuries such as car accidents, slip and falls, or medical malpractice. However, some states allow up to 3 or even 4 years. It's crucial to consult with a personal injury attorney as soon as possible after your injury, as waiting too long can result in losing your right to sue. There are also exceptions that can extend or shorten this time period, such as injuries to minors or cases involving government entities.",
+      "category": "Personal Injury",
+      "keywords": ["statute of limitations", "personal injury", "deadline", "filing claim", "time limit", "lawsuit"]
+    },
+    {
+      "id": "faq_002",
+      "question": "What damages can I recover in a personal injury case?",
+      "answer": "In a personal injury case, you may be entitled to recover several types of damages. Economic damages include medical expenses (past and future), lost wages, loss of earning capacity, and property damage. Non-economic damages cover pain and suffering, emotional distress, loss of enjoyment of life, and loss of consortium. In cases of gross negligence or intentional harm, punitive damages may also be awarded to punish the defendant and deter similar conduct. The specific damages available depend on the circumstances of your case, the severity of your injuries, and the laws in your state. An experienced personal injury attorney can help you understand what damages you may be entitled to claim.",
+      "category": "Personal Injury",
+      "keywords": ["damages", "compensation", "medical expenses", "pain and suffering", "lost wages", "personal injury"]
+    },
+    {
+      "id": "faq_003",
+      "question": "What makes a contract legally binding?",
+      "answer": "A legally binding contract requires four essential elements: (1) Offer - one party makes a clear proposal to another; (2) Acceptance - the other party accepts the offer without modifications; (3) Consideration - something of value is exchanged between the parties (money, services, goods, or promises); and (4) Mutual intent - both parties intend to enter into the agreement and understand its terms. Additionally, the parties must have legal capacity to contract (be of legal age and sound mind), and the contract's purpose must be legal. While written contracts are preferable for evidence purposes, oral contracts can also be legally binding in many situations, though some types of contracts (like real estate transactions) must be in writing under the Statute of Frauds.",
+      "category": "Contract Law",
+      "keywords": ["contract", "legally binding", "offer", "acceptance", "consideration", "agreement", "contract law"]
+    },
+    {
+      "id": "faq_004",
+      "question": "Can I break a contract without penalty?",
+      "answer": "Breaking a contract (known as 'breach of contract') typically results in legal consequences, but there are circumstances where you may terminate a contract without penalty. Valid reasons include: (1) Mutual agreement - both parties agree to cancel; (2) Material breach by the other party - if they fail to fulfill their obligations; (3) Impossibility of performance - unforeseen circumstances make it impossible to fulfill the contract; (4) Fraud or misrepresentation - the contract was based on false information; (5) Lack of capacity - one party lacked legal capacity to contract; or (6) Contract terms allow termination - many contracts include termination clauses. If you breach a contract without valid justification, you may be liable for damages. It's advisable to consult with a contract attorney before attempting to break a contract.",
+      "category": "Contract Law",
+      "keywords": ["breach of contract", "terminate contract", "cancel agreement", "contract penalty", "contract termination"]
+    },
+    {
+      "id": "faq_005",
+      "question": "What constitutes wrongful termination from employment?",
+      "answer": "Wrongful termination occurs when an employee is fired in violation of legal protections or employment contracts. In most U.S. states, employment is 'at-will,' meaning employers can terminate employees for any reason not prohibited by law. However, termination is wrongful if based on: (1) Discrimination - firing due to race, gender, age, religion, disability, or other protected characteristics; (2) Retaliation - dismissal for whistleblowing, filing complaints, or exercising legal rights; (3) Breach of contract - violation of an employment agreement; (4) Violation of public policy - firing for refusing to break the law or performing a legal obligation like jury duty; or (5) Family and Medical Leave Act (FMLA) violations. If you believe you were wrongfully terminated, gather documentation and consult an employment attorney to evaluate your case.",
+      "category": "Employment Law",
+      "keywords": ["wrongful termination", "fired", "employment", "discrimination", "retaliation", "at-will employment"]
+    },
+    {
+      "id": "faq_006",
+      "question": "Am I entitled to overtime pay?",
+      "answer": "Under the Fair Labor Standards Act (FLSA), non-exempt employees are entitled to overtime pay at 1.5 times their regular rate for hours worked beyond 40 in a workweek. However, certain employees are classified as 'exempt' and not entitled to overtime, including: (1) Executive, administrative, and professional employees earning above a salary threshold ($684 per week as of 2024); (2) Outside sales employees; (3) Certain computer professionals; and (4) Highly compensated employees. The classification depends on job duties and salary, not just job title. Some states have additional overtime laws that may be more generous than federal law. If you believe you're misclassified as exempt or not receiving proper overtime pay, you should consult with an employment attorney who can review your specific situation.",
+      "category": "Employment Law",
+      "keywords": ["overtime pay", "FLSA", "exempt employee", "non-exempt", "wages", "working hours", "compensation"]
+    },
+    {
+      "id": "faq_007",
+      "question": "What is adverse possession and how does it work?",
+      "answer": "Adverse possession is a legal doctrine that allows a person to claim ownership of land under certain conditions, even without purchasing it. To establish adverse possession, the possession must typically be: (1) Hostile - without the owner's permission; (2) Actual - physical presence and use of the property; (3) Open and Notorious - visible and obvious, not secretive; (4) Exclusive - not shared with the true owner or public; and (5) Continuous - for a statutory period, usually 5-30 years depending on the state. The requirements and time periods vary significantly by jurisdiction. Some states also require payment of property taxes. Adverse possession is difficult to prove and often leads to litigation. Property owners can prevent adverse possession claims by regularly inspecting their property, posting 'no trespassing' signs, and taking legal action against unauthorized occupants.",
+      "category": "Property Law",
+      "keywords": ["adverse possession", "property rights", "land ownership", "squatters rights", "real estate", "property law"]
+    },
+    {
+      "id": "faq_008",
+      "question": "What are my rights as a landlord to evict a tenant?",
+      "answer": "Landlord eviction rights vary by state, but generally, you can evict a tenant for: (1) Non-payment of rent; (2) Violation of lease terms; (3) Property damage; (4) Illegal activities on the premises; or (5) End of lease term (in some jurisdictions). However, you must follow proper legal procedures: provide written notice (typically 3-30 days depending on reason and state), file an eviction lawsuit if tenant doesn't comply, attend a court hearing, and only remove the tenant through law enforcement with a court order. You cannot use 'self-help' eviction methods like changing locks, removing belongings, or shutting off utilities - these are illegal in all states. Many jurisdictions have additional tenant protections, especially during winter months or public health emergencies. Always consult with a real estate attorney before beginning eviction proceedings to ensure compliance with local laws.",
+      "category": "Property Law",
+      "keywords": ["eviction", "landlord rights", "tenant", "rental property", "lease violation", "eviction process"]
+    },
+    {
+      "id": "faq_009",
+      "question": "What is the difference between a misdemeanor and a felony?",
+      "answer": "Misdemeanors and felonies are two classifications of crimes based on their severity. Misdemeanors are less serious offenses typically punishable by fines and/or jail time of up to one year in county or local jail. Examples include petty theft, simple assault, DUI (first offense in many states), and vandalism. Felonies are more serious crimes punishable by imprisonment for more than one year in state or federal prison, and sometimes death penalty. Examples include murder, rape, robbery, burglary, and drug trafficking. Felonies often result in loss of certain rights (voting, gun ownership) and can severely impact employment prospects. Some states also recognize 'gross misdemeanors' or 'wobblers' (offenses that can be charged as either). The classification affects not just the punishment but also the criminal procedure, with felonies requiring more formal proceedings including grand jury indictments in many jurisdictions.",
+      "category": "Criminal Law",
+      "keywords": ["misdemeanor", "felony", "criminal charges", "crime classification", "jail", "prison", "criminal law"]
+    },
+    {
+      "id": "faq_010",
+      "question": "What are my rights if I'm arrested?",
+      "answer": "If you're arrested, you have important constitutional rights under the Fourth, Fifth, and Sixth Amendments. Your rights include: (1) Right to remain silent - you cannot be compelled to incriminate yourself (Fifth Amendment); (2) Right to an attorney - if you cannot afford one, the court must appoint one (Sixth Amendment); (3) Right to know the charges against you; (4) Right to be free from unreasonable searches and seizures; (5) Right to a phone call to contact someone; and (6) Right to a timely hearing before a judge. When arrested, police must read you your 'Miranda rights' before custodial interrogation. It's advisable to exercise your right to remain silent and request an attorney immediately. Do not resist arrest, even if you believe it's unlawful - that can lead to additional charges. Remain calm and polite, but do not answer questions or consent to searches without an attorney present.",
+      "category": "Criminal Law",
+      "keywords": ["arrest", "Miranda rights", "right to attorney", "Fifth Amendment", "criminal rights", "police", "remain silent"]
+    }
+  ]
+}

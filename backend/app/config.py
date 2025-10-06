@@ -25,7 +25,7 @@ class Settings(BaseSettings):
     
     # Retrieval Configuration
     top_k_results: int = 2
-    similarity_threshold: float = 0.7
+    similarity_threshold: float = 0.6  # Lowered from 0.7 to catch semantic variations
     
     # Application Configuration
     environment: str = "development"
